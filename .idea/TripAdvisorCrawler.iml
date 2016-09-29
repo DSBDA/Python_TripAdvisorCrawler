@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.5.1 (D:\Program Files (x86)\Python35-32\python3.exe)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="AmazonCrawler" />
+    <orderEntry type="module" module-name="YelpCrawler" />
+    <orderEntry type="module" module-name="NetworkProgramCourse" />
+    <orderEntry type="module" module-name="untitled" />
+    <orderEntry type="module" module-name="NetworkProgramFinalProject" />
+    <orderEntry type="module" module-name="XMLParser" />
+    <orderEntry type="module" module-name="DataAnalysis" />
+    <orderEntry type="module" module-name="yhu_TripAdvisor" />
+    <orderEntry type="module" module-name="test" />
+  </component>
+</module>

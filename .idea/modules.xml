@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AmazonCrawler/.idea/AmazonCrawler.iml" filepath="$PROJECT_DIR$/../AmazonCrawler/.idea/AmazonCrawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../DataAnalysis/.idea/DataAnalysis.iml" filepath="$PROJECT_DIR$/../../DataAnalysis/.idea/DataAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../NetworkProgramCourse/.idea/NetworkProgramCourse.iml" filepath="$PROJECT_DIR$/../../NetworkProgramCourse/.idea/NetworkProgramCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../NetworkProgramFinalProject/.idea/NetworkProgramFinalProject.iml" filepath="$PROJECT_DIR$/../../NetworkProgramFinalProject/.idea/NetworkProgramFinalProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TripAdvisorCrawler.iml" filepath="$PROJECT_DIR$/.idea/TripAdvisorCrawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../XMLParser/.idea/XMLParser.iml" filepath="$PROJECT_DIR$/../../XMLParser/.idea/XMLParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../YelpCrawler/.idea/YelpCrawler.iml" filepath="$PROJECT_DIR$/../YelpCrawler/.idea/YelpCrawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../test/.idea/test.iml" filepath="$PROJECT_DIR$/../../test/.idea/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../../untitled/.idea/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yhu_TripAdvisor/.idea/yhu_TripAdvisor.iml" filepath="$PROJECT_DIR$/../yhu_TripAdvisor/.idea/yhu_TripAdvisor.iml" />
+    </modules>
+  </component>
+</project>
